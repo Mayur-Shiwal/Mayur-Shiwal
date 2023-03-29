@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/mayureshwar-shiwal-a396a01b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayureshwar-shiwal-a396a01b6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayur92828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayur92828" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/mayurshiwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/mayurshiwal" height="30" width="40" /></a>
-<a href="https://discord.gg/mayur_shiwal#2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mayur_shiwal#2705" height="30" width="40" /></a>
+<a href="https://discord.gg/HbXnT7U77F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HbXnT7U77F" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
