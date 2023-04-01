@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React(Three.js) and Blockchain**
 
-- 👯 I’m looking to collaborate on **Mern Stack Development and Blockchain**
+- 👯 I’m looking to collaborate on **Mern Stack Development and Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayur-Shiwal](https://github.com/Mayur-Shiwal)
 
