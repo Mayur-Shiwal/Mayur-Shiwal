@@ -1,5 +1,5 @@
-## Hi <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayureshwar!](https://github.com/harry6003) 
-<!-- <h1 align="center">Hi 👋, I'm Mayureshwar Shiwal</h1> -->
+<!-- ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayureshwar!](https://github.com/harry6003)  -->
+<h1 align="center">Hi 👋, I'm Mayureshwar Shiwal</h1>
 <h3 align="center">A passionate Software Engineer, Competitive Programmer and Web Developer. Loves to learn new things, playing competitive games(like Valorant) and watching anime(Fav-One Piece).</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/vNRWoqK5KpX2lV9iFcCgcufOeHQ3oPIdX0eKuhf00NU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzU3/NjlmYzQwMWI2MzFi/YWIxYWRkYjJhYi8x/NTQxNTgwNjExNjI0/LVRFNjRRR0tSSkc4/U1dBSVVTN05TL2Nv/ZGluZy1mcmVhay5n/aWY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-shiwal&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-shiwal" /> </p>
