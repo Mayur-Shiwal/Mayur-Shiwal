@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mayurshiwal12@gmail.com**
 
-- ⚡ Fun fact **I hate sleeping**
+- ⚡ Fun fact **There is no fun in_fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
