@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://linkedin.com/in/mayureshwar-shiwal-a396a01b6](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6)
 
-- 💬 Ask me about **DSA, Competitive Programming, Web Development**
+- 💬 Ask me about **DSA, Competitive Programming & Web Development**
 
 - 📫 How to reach me **mayurshiwal12@gmail.com**
 
