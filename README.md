@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/mayureshwar945" target="blank"><img src="https://img.shields.io/twitter/follow/mayureshwar_shiwal?logo=twitter&style=for-the-badge" alt="mayureshwar_shiwal" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development(React, Three.js)**
+- 🔭 I’m currently working on **Frontend Development(React, Three.js)**.
 
-- 🌱 I’m currently learning **React(Three.js) and Blockchain**
+- 🌱 I’m currently learning **React(Three.js) and Blockchain**.
 
-- 👯 I’m looking to collaborate on **Mern Stack Development and Blockchain Development**
+- 👯 I’m looking to collaborate on **Mern Stack Development and Blockchain Development**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mayur-Shiwal](https://github.com/Mayur-Shiwal)
+- 👨‍💻 All of my projects are available at [https://github.com/Mayur-Shiwal](https://github.com/Mayur-Shiwal).
 
-- 📝 I regularly write articles on [https://linkedin.com/in/mayureshwar-shiwal-a396a01b6](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6)
+- 📝 I regularly write articles on [https://linkedin.com/in/mayureshwar-shiwal-a396a01b6](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6).
 
-- 💬 Ask me about **DSA, Competitive Programming & Web Development**
+- 💬 Ask me about **DSA, Competitive Programming & Web Development**.
 
-- 📫 How to reach me **mayurshiwal12@gmail.com**
+- 📫 How to reach me **mayurshiwal12@gmail.com**.
 
-- ⚡ Fun fact **There is no fun in_fact**
+- ⚡ Fun fact **There is no Fun in_Fact**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
