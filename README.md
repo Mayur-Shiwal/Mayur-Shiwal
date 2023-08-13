@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Mern Stack Development and Blockchain Development**.
 
-- 👨‍💻 All of my projects are available at [Mayur-Shiwal](https://github.com/Mayur-Shiwal?tab=repositories).
+- 👨‍💻 All of my projects are available at [My_Github](https://github.com/Mayur-Shiwal?tab=repositories).
 
-- 📝 I regularly write articles on [Mayureshwar Shiwal](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6).
+- 📝 I regularly write articles on [My_LinkedIn](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6).
 
 - 💬 Ask me about **DSA, Competitive Programming & Web Development**.
 
