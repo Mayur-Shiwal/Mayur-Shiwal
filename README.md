@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/mayureshwar945" target="blank"><img src="https://img.shields.io/twitter/follow/mayureshwar_shiwal?logo=twitter&style=for-the-badge" alt="mayureshwar_shiwal" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development(React, Three.js)**.
+- 🔭 I’m currently working on **Web Development(React, Three.js)**.
 
-- 🌱 I’m currently learning **React(Three.js) and Blockchain**.
+- 🌱 I’m currently learning **React(Three.js) && Blockchain**.
 
-- 👯 I’m looking to collaborate on **Mern Stack Development and Blockchain Development**.
+- 👯 I’m looking to collaborate on **Mern Stack Development && Blockchain Development**.
 
 - 👨‍💻 All of my projects are available at [My_Github](https://github.com/Mayur-Shiwal?tab=repositories).
 
 - 📝 I regularly write articles on [My_LinkedIn](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6).
 
-- 💬 Ask me about **DSA, Competitive Programming & Web Development**.
+- 💬 Ask me about **DSA || Competitive Programming || Web Development**.
 
 - 📫 How to reach me **mayurshiwal12@gmail.com**.
 
