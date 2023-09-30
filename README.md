@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur-shiwal&show_icons=true&rank_icon=github&locale=en&theme=tokyonight" alt="mayur-shiwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-shiwal&theme=tokyonight" alt="mayur-shiwal" /></p>
+<p align="center"> <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" alt="mayur-shiwal" /> </p>
