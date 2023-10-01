@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" alt="Hey, I'm Mayureshwar Shiwal" width="90%" align="middle"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Mayureshwar+Shiwal!" alt="Hey, I'm Mayureshwar Shiwal" width="90%" align="middle"/>
 <h3 align="center">A passionate Software Engineer, Competitive Programmer and Web Developer. Loves to learn new things, playing competitive games(like Valorant) and watching anime(Fav-One Piece).</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-neon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-shiwal&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-shiwal" /> </p>
