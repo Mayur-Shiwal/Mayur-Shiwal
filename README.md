@@ -38,4 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur-shiwal&show_icons=true&rank_icon=github&locale=en&theme=tokyonight" alt="mayur-shiwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-shiwal&theme=tokyonight" alt="mayur-shiwal" /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Shiwal&custom_title=Mayur's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+
 <p align="center"> <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" alt="mayur-shiwal" /> </p>
