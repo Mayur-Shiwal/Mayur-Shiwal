@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Web Development(React, Three.js)**.
 
-- 🌱 I’m currently learning **React(Three.js) && Blockchain**.
+- 🌱 I’m currently learning **React(Three.js) && SFML && OpenCV(C++)**.
 
-- 👯 I’m looking to collaborate on **Mern Stack Development && Blockchain Development**.
+- 👯 I’m looking to collaborate on **Mern Stack Development || Game Development(SFML)**.
 
 - 👨‍💻 All of my projects are available at [My_Github](https://github.com/Mayur-Shiwal?tab=repositories).
 
