@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [My_LinkedIn](https://linkedin.com/in/mayureshwar-shiwal-a396a01b6).
 
-- 💬 Ask me about **DSA || Competitive Programming || MERN Stack Development**.
+- 💬 Ask me about **DSA || Problem Solving || MERN Stack Development**.
 
 - 📫 How to reach me **mayurshiwal12@gmail.com**.
 
