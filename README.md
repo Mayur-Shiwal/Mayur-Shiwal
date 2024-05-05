@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mayurshiwal12@gmail.com**.
 
-- ⚡ Fun fact **There is no Fun in_Fact**.
+- ⚡ Fun fact **I Like Bugs**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
