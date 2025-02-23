@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **MERN Stack**.
 
-- 🌱 I’m currently learning **MERN Stack Deep Down**.
+- 🌱 I’m currently learning **MERN Stack Deep Down and Blockchain Technology**.
 
-- 👯 I’m looking to collaborate on **Mern Stack Development || Game Development(SFML)**.
+- 👯 I’m looking to collaborate on **Mern Stack Development || Blockchain Development**.
 
 - 👨‍💻 All of my projects are available at [My_Github](https://github.com/Mayur-Shiwal?tab=repositories).
 
